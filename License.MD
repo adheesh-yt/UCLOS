@@ -1,5 +1,5 @@
 # USE OF SOFTWARE LICENSE AGREEMENT
-
+# Read Before Download
 This Use Of Software License Agreement is entered into between Heartwin Corpration run by Adheesh and the individual or entity using the software ("User OF software.").
 
 ## 1. DEFINITIONS
@@ -16,15 +16,7 @@ This Use Of Software License Agreement is entered into between Heartwin Corprati
 
 ### 2.1 Open-Source Version
 
-Licensor grants Licensee a non-exclusive, royalty-free license to use, modify, and redistribute the Open-Source Version of the Software.
-
-### 2.2 Paid Version
-
-Licensor grants Licensee a non-exclusive, non-transferable license to use the Paid Version of the Software, subject to the payment of applicable fees.
-
-### 2.3 License Key
-
-Licensee shall use the License Key provided by Licensor to activate the Paid Version of the Software. Licensee is responsible for the confidentiality and security of the License Key.
+This is an OS that is not supposed to be modified and redistrobuted.
 
 ## 3. CUSTOMER SUPPORT DURING BETA
 
@@ -40,15 +32,15 @@ Licensee shall not, and shall not permit any third party to:
 
 - Modify, adapt, alter, translate, or create derivative works from the Software.
 
-- Distribute, sublicense, lease, rent, loan, or otherwise make the Paid Version of the Software available to any third party without payment.
+- Distribute, sublicense, lease, rent, loan, or otherwise make the Software available to any third party with payment.
 
 - Reverse engineer, decompile, disassemble, or attempt to derive the source code of the Software.
 
-- Use modified code with the Paid Version of the Software.
+- Use modified code with the Software.
 
 ## 5. CONSEQUENCES OF UNAUTHORIZED USE
 
-Unauthorized distribution or use of the Paid Version without payment may result in legal actions, including but not limited to fines and the payment of charges for each instance of unauthorized use.
+Unauthorized distribution or use of the software without payment may result in legal actions, including but not limited to fines and the payment of charges for each instance of unauthorized use.
 
 Suspension or termination of customer support services may occur if the Software is modified, except as allowed under Section 2.1 or Section 2.2.
 
@@ -58,7 +50,7 @@ Licensor may provide updates, enhancements, or support services at its discretio
 
 ## 7. FEES
 
-Licensee agrees to pay the fees specified by Licensor for the license to use the Paid Version of the Software.
+Licensee agrees to pay the fees of 100 inr for the license to distrobute modified versions.
 
 ## 8. DISCLAIMER OF WARRANTY
 
@@ -70,7 +62,7 @@ LICENSOR SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIA
 
 ## 10. GOVERNING LAW
 
-This Agreement shall be governed by and construed in accordance with the laws of [Your Jurisdiction].
+This Agreement shall be governed by and construed in accordance with the laws of India.
 
 ## 11. MISCELLANEOUS
 
