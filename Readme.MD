@@ -4,13 +4,7 @@ This Use Of Software License Agreement is entered into between Heartwin Corprati
 
 ## 1. DEFINITIONS
 
-- **Software**: The proprietary software product provided by Licensor, including any updates, enhancements, modifications, or documentation.
-  
-- **License Key**: A unique code provided by Licensor to Licensee for activating and using the Software.
-
 - **Open-Source Version**: The version of the Software made freely available for use, modification, and redistribution.
-
-- **Paid Version**: The version of the Software that includes additional features and benefits and requires payment for its use.
 
 ## 2. GRANT OF LICENSE
 
@@ -40,13 +34,13 @@ Licensee shall not, and shall not permit any third party to:
 
 ## 5. CONSEQUENCES OF UNAUTHORIZED USE
 
-Unauthorized distribution or use of the software without payment may result in legal actions, including but not limited to fines and the payment of charges for each instance of unauthorized use.
+Unauthorized distribution of the software without payment may result in legal actions, including but not limited to fines and the payment of charges for each instance of unauthorized use.
 
 Suspension or termination of customer support services may occur if the Software is modified, except as allowed under Section 2.1 or Section 2.2.
 
 ## 6. SUPPORT AND UPDATES
 
-Licensor may provide updates, enhancements, or support services at its discretion. Licensee may be required to pay additional fees for such services.
+Licensor may provide updates, enhancements, or security updates
 
 ## 7. FEES
 
